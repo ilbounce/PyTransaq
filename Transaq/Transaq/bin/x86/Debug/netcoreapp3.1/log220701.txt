@@ -1,0 +1,394 @@
+03:42:40.874 START LOGGING
+03:42:40.967 Initialize() OK
+03:42:40.967 Connecting FZTC19414A
+03:42:42.307 Waiting for a connection at port 11002...
+03:42:42.309 Client is connected at port 11002
+03:42:42.310 Waiting for a connection at port 11005...
+03:42:42.811 Client is connected at port 11005
+03:43:17.273 START LOGGING
+03:43:17.291 Initialize() OK
+03:43:17.291 Connecting FZTC19414A
+03:43:27.127 Client at port 11000 closed connection
+03:43:27.509 Client at port 11001 closed connection
+03:43:27.510 Client at port 11004 closed connection
+03:43:46.418 START LOGGING
+03:43:46.434 Initialize() OK
+03:43:46.434 Connecting FZTC19414A
+03:43:57.505 Client at port 11000 closed connection
+03:43:58.244 Client at port 11001 closed connection
+03:43:58.244 Client at port 11004 closed connection
+03:44:59.730 START LOGGING
+03:44:59.746 Initialize() OK
+03:44:59.746 Connecting FZTC19414A
+03:45:10.809 Client at port 11008 closed connection
+03:45:11.000 Client at port 11001 closed connection
+03:45:11.000 Client at port 11004 closed connection
+03:56:31.855 START LOGGING
+03:56:31.870 Initialize() OK
+03:56:31.870 Connecting FZTC19414A
+03:56:33.170 Waiting for a connection at port 11002...
+03:56:33.170 Client is connected at port 11002
+03:56:33.171 Waiting for a connection at port 11005...
+03:56:33.172 Client is connected at port 11005
+03:58:12.846 START LOGGING
+03:58:12.864 Initialize() OK
+03:58:12.864 Connecting FZTC19414A
+03:58:14.159 Waiting for a connection at port 11002...
+03:58:14.665 Client is connected at port 11002
+03:58:14.666 Waiting for a connection at port 11005...
+03:58:14.666 Client is connected at port 11005
+04:03:48.854 START LOGGING
+04:03:48.873 Initialize() OK
+04:03:48.873 Connecting FZTC19414A
+04:03:50.176 Waiting for a connection at port 11002...
+04:03:50.176 Client is connected at port 11002
+04:03:50.177 Waiting for a connection at port 11005...
+04:03:50.177 Client is connected at port 11005
+16:16:42.186 START LOGGING
+16:16:42.311 Initialize() OK
+16:16:42.311 Connecting FZTC19414A
+16:17:35.333 START LOGGING
+16:17:35.351 Initialize() OK
+16:17:35.351 Connecting FZTC19414A
+16:17:41.100 Client at port 11001 closed connection
+16:17:41.100 Client at port 11000 closed connection
+16:17:41.100 Client at port 11001 closed connection
+16:17:41.100 Client at port 11000 closed connection
+16:17:41.101 Client at port 11004 closed connection
+16:18:42.545 START LOGGING
+16:18:42.562 Initialize() OK
+16:18:42.562 Connecting FZTC19414A
+16:18:43.797 Waiting for a connection at port 11002...
+16:18:43.798 Client is connected at port 11002
+16:18:43.799 Waiting for a connection at port 11005...
+16:18:44.298 Client is connected at port 11005
+16:20:35.705 START LOGGING
+16:20:35.722 Initialize() OK
+16:20:35.722 Connecting FZTC19414A
+16:20:43.507 Client at port 11001 closed connection
+16:20:43.507 Client at port 11000 closed connection
+16:20:43.507 Client at port 11001 closed connection
+16:20:43.507 Client at port 11000 closed connection
+16:20:43.507 Client at port 11004 closed connection
+16:24:24.661 START LOGGING
+16:24:24.745 Initialize() OK
+16:24:24.745 Connecting FZTC19414A
+16:24:26.053 Waiting for a connection at port 11002...
+16:24:26.555 Client is connected at port 11002
+16:24:26.556 Waiting for a connection at port 11005...
+16:24:26.559 Client is connected at port 11005
+16:26:02.035 START LOGGING
+16:26:02.055 Initialize() OK
+16:26:02.055 Connecting FZTC19414A
+16:26:03.269 Waiting for a connection at port 11002...
+16:26:03.774 Client is connected at port 11002
+16:26:03.775 Waiting for a connection at port 11005...
+16:26:03.777 Client is connected at port 11005
+16:27:57.289 START LOGGING
+16:27:57.305 Initialize() OK
+16:27:57.305 Connecting FZTC19414A
+16:27:58.517 Waiting for a connection at port 11002...
+16:27:58.518 Client is connected at port 11002
+16:27:58.518 Waiting for a connection at port 11005...
+16:27:59.026 Client is connected at port 11005
+16:30:35.735 START LOGGING
+16:30:35.752 Initialize() OK
+16:30:35.752 Connecting FZTC19414A
+16:30:36.999 Waiting for a connection at port 11002...
+16:30:37.000 Client is connected at port 11002
+16:30:37.001 Waiting for a connection at port 11005...
+16:30:37.511 Client is connected at port 11005
+16:34:17.222 START LOGGING
+16:34:17.242 Initialize() OK
+16:34:17.242 Connecting FZTC19414A
+16:35:26.454 START LOGGING
+16:35:26.472 Initialize() OK
+16:35:26.472 Connecting FZTC19414A
+16:35:34.286 Client at port 11001 closed connection
+16:35:34.286 Client at port 11000 closed connection
+16:35:34.286 Client at port 11001 closed connection
+16:35:34.286 Client at port 11000 closed connection
+16:35:34.286 Client at port 11004 closed connection
+16:37:52.921 START LOGGING
+16:37:52.938 Initialize() OK
+16:37:52.938 Connecting FZTC19414A
+16:37:54.275 Waiting for a connection at port 11002...
+16:37:54.788 Client is connected at port 11002
+16:37:54.789 Waiting for a connection at port 11005...
+16:37:55.290 Client is connected at port 11005
+16:41:32.764 START LOGGING
+16:41:32.781 Initialize() OK
+16:41:32.781 Connecting FZTC19414A
+16:41:34.026 Waiting for a connection at port 11002...
+16:41:34.027 Client is connected at port 11002
+16:41:34.028 Waiting for a connection at port 11005...
+16:41:34.538 Client is connected at port 11005
+16:41:42.627 START LOGGING
+16:41:42.644 Initialize() OK
+16:41:42.644 Connecting FZTC19414A
+16:41:43.869 Waiting for a connection at port 11002...
+16:41:44.375 Client is connected at port 11002
+16:41:44.376 Waiting for a connection at port 11005...
+16:41:44.885 Client is connected at port 11005
+16:43:10.246 START LOGGING
+16:43:10.263 Initialize() OK
+16:43:10.263 Connecting FZTC19414A
+16:43:11.500 Waiting for a connection at port 11002...
+16:43:11.501 Client is connected at port 11002
+16:43:11.502 Waiting for a connection at port 11005...
+16:43:12.007 Client is connected at port 11005
+16:45:58.933 START LOGGING
+16:45:58.949 Initialize() OK
+16:45:58.949 Connecting FZTC19414A
+16:46:00.225 Waiting for a connection at port 11002...
+16:46:00.741 Client is connected at port 11002
+16:46:00.742 Waiting for a connection at port 11005...
+16:46:01.254 Client is connected at port 11005
+16:47:11.111 START LOGGING
+16:47:11.128 Initialize() OK
+16:47:11.128 Connecting FZTC19414A
+16:47:12.361 Waiting for a connection at port 11002...
+16:47:12.877 Client is connected at port 11002
+16:47:12.878 Waiting for a connection at port 11005...
+16:47:12.879 Client is connected at port 11005
+16:48:32.344 START LOGGING
+16:48:32.360 Initialize() OK
+16:48:32.360 Connecting FZTC19414A
+16:48:33.602 Waiting for a connection at port 11002...
+16:48:34.115 Client is connected at port 11002
+16:48:34.116 Waiting for a connection at port 11005...
+16:48:34.117 Client is connected at port 11005
+16:50:13.616 START LOGGING
+16:50:13.636 Initialize() OK
+16:50:13.636 Connecting FZTC19414A
+16:50:15.071 Waiting for a connection at port 11002...
+16:50:15.583 Client is connected at port 11002
+16:50:15.585 Waiting for a connection at port 11005...
+16:50:15.585 Client is connected at port 11005
+17:04:32.289 START LOGGING
+17:04:32.317 Initialize() OK
+17:04:32.317 Connecting FZTC19414A
+17:04:33.600 Waiting for a connection at port 11002...
+17:04:34.103 Client is connected at port 11002
+17:04:34.104 Waiting for a connection at port 11005...
+17:04:34.104 Client is connected at port 11005
+17:05:51.292 START LOGGING
+17:05:51.309 Initialize() OK
+17:05:51.309 Connecting FZTC19414A
+17:05:52.548 Waiting for a connection at port 11002...
+17:05:53.051 Client is connected at port 11002
+17:05:53.052 Waiting for a connection at port 11005...
+17:05:53.558 Client is connected at port 11005
+17:06:58.891 START LOGGING
+17:06:58.908 Initialize() OK
+17:06:58.908 Connecting FZTC19414A
+17:07:00.154 Waiting for a connection at port 11002...
+17:07:00.154 Client is connected at port 11002
+17:07:00.155 Waiting for a connection at port 11005...
+17:07:18.443 START LOGGING
+17:07:18.460 Initialize() OK
+17:07:18.460 Connecting FZTC19414A
+17:07:19.729 Waiting for a connection at port 11002...
+17:07:19.731 Client is connected at port 11002
+17:07:19.732 Waiting for a connection at port 11005...
+17:07:19.733 Client is connected at port 11005
+17:09:08.331 START LOGGING
+17:09:08.348 Initialize() OK
+17:09:08.348 Connecting FZTC19414A
+17:09:09.578 Waiting for a connection at port 11002...
+17:09:09.583 Client is connected at port 11002
+17:09:09.584 Waiting for a connection at port 11005...
+17:09:10.098 Client is connected at port 11005
+17:11:05.796 START LOGGING
+17:11:05.814 Initialize() OK
+17:11:05.814 Connecting FZTC19414A
+17:11:07.079 Waiting for a connection at port 11002...
+17:11:07.590 Client is connected at port 11002
+17:11:07.591 Waiting for a connection at port 11005...
+17:11:08.106 Client is connected at port 11005
+17:58:10.067 START LOGGING
+17:58:10.193 Initialize() OK
+17:58:10.193 Connecting FZTC19414A
+17:58:11.554 Waiting for a connection at port 11002...
+17:58:11.556 Client is connected at port 11002
+17:58:11.556 Waiting for a connection at port 11005...
+17:58:12.071 Client is connected at port 11005
+17:59:23.381 START LOGGING
+17:59:23.446 Initialize() OK
+17:59:23.446 Connecting FZTC19414A
+17:59:24.720 Waiting for a connection at port 11002...
+17:59:25.228 Client is connected at port 11002
+17:59:25.229 Waiting for a connection at port 11005...
+17:59:25.741 Client is connected at port 11005
+18:03:07.132 START LOGGING
+18:03:07.154 Initialize() OK
+18:03:07.154 Connecting FZTC19414A
+18:03:08.481 Waiting for a connection at port 11002...
+18:03:08.985 Client is connected at port 11002
+18:03:08.986 Waiting for a connection at port 11005...
+18:03:08.987 Client is connected at port 11005
+18:24:32.327 START LOGGING
+18:24:32.465 Initialize() OK
+18:24:32.465 Connecting FZTC19414A
+18:24:33.837 Waiting for a connection at port 11002...
+18:24:34.343 Client is connected at port 11002
+18:24:34.344 Waiting for a connection at port 11005...
+18:24:34.848 Client is connected at port 11005
+18:31:59.041 START LOGGING
+18:31:59.059 Initialize() OK
+18:31:59.059 Connecting FZTC19414A
+18:32:00.386 Waiting for a connection at port 11002...
+18:32:00.893 Client is connected at port 11002
+18:32:00.894 Waiting for a connection at port 11005...
+18:32:01.398 Client is connected at port 11005
+18:43:31.008 START LOGGING
+18:43:31.025 Initialize() OK
+18:43:31.025 Connecting FZTC19414A
+18:43:32.351 Waiting for a connection at port 11002...
+18:43:32.865 Client is connected at port 11002
+18:43:32.866 Waiting for a connection at port 11005...
+18:43:32.867 Client is connected at port 11005
+18:44:01.959 SendCommand: <command id="disconnect"/>
+18:44:02.176 Disconnect
+18:44:02.864 Client at port 11001 closed connection
+18:44:02.864 Client at port 11000 closed connection
+18:44:02.864 Client at port 11001 closed connection
+18:44:02.864 Client at port 11000 closed connection
+18:44:02.864 Client at port 11002 closed connection
+18:44:02.864 Client at port 11004 closed connection
+18:44:02.864 Client at port 11005 closed connection
+18:46:07.329 START LOGGING
+18:46:07.346 Initialize() OK
+18:46:07.346 Connecting FZTC19414A
+18:46:08.887 Waiting for a connection at port 11002...
+18:46:08.887 Client is connected at port 11002
+18:46:08.888 Waiting for a connection at port 11005...
+18:46:08.888 Client is connected at port 11005
+18:46:28.488 SendCommand: <command id="disconnect"/>
+18:46:28.703 Disconnect
+18:46:28.971 Client at port 11001 closed connection
+18:46:28.971 Client at port 11000 closed connection
+18:46:28.971 Client at port 11001 closed connection
+18:46:28.971 Client at port 11000 closed connection
+18:46:28.971 Client at port 11002 closed connection
+18:46:28.971 Client at port 11004 closed connection
+18:46:28.971 Client at port 11005 closed connection
+19:22:19.513 START LOGGING
+19:22:19.640 Initialize() OK
+19:22:19.640 Connecting FZTC19414A
+19:22:25.381 Client at port 11000 closed connection
+19:22:25.381 Client at port 11001 closed connection
+19:22:25.381 Client at port 11000 closed connection
+19:22:25.381 Client at port 11001 closed connection
+19:22:25.382 Client at port 11004 closed connection
+19:24:22.575 START LOGGING
+19:24:22.593 Initialize() OK
+19:24:22.593 Connecting FZTC19414A
+19:24:23.870 Waiting for a connection at port 11002...
+19:24:24.378 Client is connected at port 11002
+19:24:24.380 Waiting for a connection at port 11005...
+19:24:24.888 Client is connected at port 11005
+19:24:44.554 SendCommand: <command id="disconnect"/>
+19:24:44.767 Disconnect
+19:25:44.085 START LOGGING
+19:25:44.100 Initialize() OK
+19:25:44.100 Connecting FZTC19414A
+19:25:45.388 Waiting for a connection at port 11002...
+19:25:45.897 Client is connected at port 11002
+19:25:45.898 Waiting for a connection at port 11005...
+19:25:46.399 Client is connected at port 11005
+19:26:05.396 SendCommand: <command id="disconnect"/>
+19:26:05.600 Disconnect
+19:27:12.644 START LOGGING
+19:27:12.660 Initialize() OK
+19:27:12.660 Connecting FZTC19414A
+19:27:13.949 Waiting for a connection at port 11002...
+19:27:14.461 Client is connected at port 11002
+19:27:14.463 Waiting for a connection at port 11005...
+19:27:14.464 Client is connected at port 11005
+19:27:34.547 SendCommand: <command id="disconnect"/>
+19:27:34.751 Disconnect
+19:28:22.029 START LOGGING
+19:28:22.044 Initialize() OK
+19:28:22.044 Connecting FZTC19414A
+19:28:23.321 Waiting for a connection at port 11002...
+19:28:23.323 Client is connected at port 11002
+19:28:23.324 Waiting for a connection at port 11005...
+19:28:23.324 Client is connected at port 11005
+19:28:54.404 SendCommand: <command id="disconnect"/>
+19:28:54.620 Disconnect
+19:30:01.724 START LOGGING
+19:30:01.739 Initialize() OK
+19:30:01.739 Connecting FZTC19414A
+19:30:03.035 Waiting for a connection at port 11002...
+19:30:03.545 Client is connected at port 11002
+19:30:03.546 Waiting for a connection at port 11005...
+19:30:04.054 Client is connected at port 11005
+19:30:23.593 SendCommand: <command id="disconnect"/>
+19:30:23.799 Disconnect
+19:34:55.748 START LOGGING
+19:34:55.764 Initialize() OK
+19:34:55.764 Connecting FZTC19414A
+19:34:57.046 Waiting for a connection at port 11002...
+19:34:57.558 Client is connected at port 11002
+19:34:57.559 Waiting for a connection at port 11005...
+19:34:58.070 Client is connected at port 11005
+19:35:16.646 SendCommand: <command id="disconnect"/>
+19:35:16.864 Disconnect
+19:35:17.725 Client at port 11001 closed connection
+19:35:17.725 Client at port 11000 closed connection
+19:35:17.725 Client at port 11001 closed connection
+19:35:17.725 Client at port 11000 closed connection
+19:35:17.726 Client at port 11002 closed connection
+19:35:17.726 Client at port 11004 closed connection
+19:35:17.726 Client at port 11005 closed connection
+19:36:17.388 START LOGGING
+19:36:17.403 Initialize() OK
+19:36:17.403 Connecting FZTC19414A
+19:36:18.680 Waiting for a connection at port 11002...
+19:36:19.188 Client is connected at port 11002
+19:36:19.189 Waiting for a connection at port 11005...
+19:36:19.194 Client is connected at port 11005
+19:36:46.167 SendCommand: <command id="disconnect"/>
+19:36:46.371 Disconnect
+19:36:47.185 Client at port 11001 closed connection
+19:36:47.185 Client at port 11000 closed connection
+19:36:47.185 Client at port 11001 closed connection
+19:36:47.185 Client at port 11000 closed connection
+19:36:47.185 Client at port 11002 closed connection
+19:36:47.185 Client at port 11004 closed connection
+19:36:47.185 Client at port 11005 closed connection
+19:39:09.227 START LOGGING
+19:39:09.243 Initialize() OK
+19:39:09.243 Connecting FZTC19414A
+19:39:10.525 Waiting for a connection at port 11002...
+19:39:10.525 Client is connected at port 11002
+19:39:10.526 Waiting for a connection at port 11005...
+19:39:10.527 Client is connected at port 11005
+19:39:30.608 SendCommand: <command id="disconnect"/>
+19:39:30.813 Disconnect
+19:39:31.416 Client at port 11001 closed connection
+19:39:31.416 Client at port 11000 closed connection
+19:39:31.416 Client at port 11001 closed connection
+19:39:31.416 Client at port 11000 closed connection
+19:39:31.416 Client at port 11002 closed connection
+19:39:31.416 Client at port 11004 closed connection
+19:39:31.416 Client at port 11005 closed connection
+19:40:59.987 START LOGGING
+19:41:00.002 Initialize() OK
+19:41:00.002 Connecting FZTC19414A
+19:41:01.284 Waiting for a connection at port 11002...
+19:41:01.790 Client is connected at port 11002
+19:41:01.792 Waiting for a connection at port 11005...
+19:41:02.307 Client is connected at port 11005
+19:41:22.892 SendCommand: <command id="disconnect"/>
+19:41:23.096 Disconnect
+19:41:23.457 Client at port 11000 closed connection>
+
+                                              
+19:41:23.457 Client at port 11000 closed connection>
+
+                                              
+19:41:23.457 Client at port 11002 closed connection
+19:41:23.457 Client at port 11004 closed connection
+19:41:23.457 Client at port 11005 closed connection

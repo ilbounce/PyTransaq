@@ -1,0 +1,316 @@
+000038.892009 [61788] [59036] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+000038.893007 [61788] [59036] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+000039.908871 [61788] [59036] <res> [R] <result success="true"/>
+000049.880840 [61788] [clbk] <info> [O] [77u] <client id="49DW8/49DW8" remove="false"><market>1</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000049.881837 [61788] [clbk] <info> [O] [50u] <client id="49DW9/49DW9" remove="false"><market>15</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000049.881837 [61788] [clbk] <info> [O] [34u] <client id="49DWA/49DWA" remove="false"><market>7</market><currency>USD</currency><type>leverage</type><union>679338RAYRY</union></client>
+000049.881837 [61788] [clbk] <info> [O] [36u] <client id="49DWB/49DWB" remove="false"><market>14</market><currency>USD</currency><type>mct</type><union>679338RAYRY</union></client>
+000049.881837 [61788] [clbk] <info> [O] [31u] <client id="7684vr4" remove="false"><market>4</market><currency>RUB</currency><type>spot</type><union>679338RAYRY</union><forts_acc>7684vr4</forts_acc></client>
+000049.882842 [61788] [clbk] <info> [O] [16u] <union id="679338RAYRY" remove="false"/>
+000049.883842 [61788] [clbk] <info> [O] [349u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000102.959157 [61788] [59036] <cmd> [I] <command id="server_status"/>
+000102.959157 [61788] [59036] <res> [R] <result success="true"/>
+000102.965155 [61788] [clbk] <info> [O] [83u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000103.968571 [61788] [59036] <cmd> [I] <command id="get_old_news" count="10"/>
+000103.975565 [61788] [59036] <res> [R] <result success="true"/>
+000103.976539 [61788] [59036] <cmd> [I] <command id="get_servtime_difference"/>
+000103.982570 [61788] [59036] <res> [R] <result success="true" diff="0"/>
+000103.982570 [61788] [59036] <cmd> [I] <command id="get_connector_version"/>
+000103.983535 [61788] [59036] <res> [R] <result success="true"/>
+000103.984536 [61788] [59036] <cmd> [I] <command id="get_server_id"/>
+000103.984536 [61788] [59036] <res> [R] <result success="true"/>
+000103.985538 [61788] [59036] <cmd> [I] <command id="disconnect"/>
+000104.189536 [61788] [clbk] <info> [O] [174u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="false"/>
+000104.190536 [61788] [59036] <res> [R] <result success="true"/>
+000149.877726 [62444] [55580] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+000149.879724 [62444] [55580] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+000150.885643 [62444] [55580] <res> [R] <result success="true"/>
+000158.349395 [62444] [clbk] <info> [O] [65u] <client id="49DW8/49DW8" remove="false"><market>1</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000158.349395 [62444] [clbk] <info> [O] [36u] <client id="49DW9/49DW9" remove="false"><market>15</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000158.349395 [62444] [clbk] <info> [O] [34u] <client id="49DWA/49DWA" remove="false"><market>7</market><currency>USD</currency><type>leverage</type><union>679338RAYRY</union></client>
+000158.349395 [62444] [clbk] <info> [O] [31u] <client id="49DWB/49DWB" remove="false"><market>14</market><currency>USD</currency><type>mct</type><union>679338RAYRY</union></client>
+000158.349395 [62444] [clbk] <info> [O] [30u] <client id="7684vr4" remove="false"><market>4</market><currency>RUB</currency><type>spot</type><union>679338RAYRY</union><forts_acc>7684vr4</forts_acc></client>
+000158.349395 [62444] [clbk] <info> [O] [21u] <union id="679338RAYRY" remove="false"/>
+000158.349395 [62444] [clbk] <info> [O] [295u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000211.034742 [62444] [55580] <cmd> [I] <command id="server_status"/>
+000211.034742 [62444] [55580] <res> [R] <result success="true"/>
+000211.034742 [62444] [clbk] <info> [O] [55u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000212.054569 [62444] [55580] <cmd> [I] <command id="get_old_news" count="10"/>
+000212.054569 [62444] [55580] <res> [R] <result success="true"/>
+000212.054569 [62444] [55580] <cmd> [I] <command id="get_servtime_difference"/>
+000212.073268 [62444] [55580] <res> [R] <result success="true" diff="-1"/>
+000212.074269 [62444] [55580] <cmd> [I] <command id="get_connector_version"/>
+000212.074269 [62444] [55580] <res> [R] <result success="true"/>
+000212.075273 [62444] [55580] <cmd> [I] <command id="get_server_id"/>
+000212.075273 [62444] [55580] <res> [R] <result success="true"/>
+000212.077271 [62444] [55580] <cmd> [I] <command id="disconnect"/>
+000212.286183 [62444] [clbk] <info> [O] [112u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="false"/>
+000212.286183 [62444] [55580] <res> [R] <result success="true"/>
+000314.501035 [63300] [44996] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+000314.502037 [63300] [44996] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+000315.508549 [63300] [44996] <res> [R] <result success="true"/>
+000322.532495 [63300] [clbk] <info> [O] [33u] <client id="49DW8/49DW8" remove="false"><market>1</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000322.532495 [63300] [clbk] <info> [O] [30u] <client id="49DW9/49DW9" remove="false"><market>15</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000322.532495 [63300] [clbk] <info> [O] [23u] <client id="49DWA/49DWA" remove="false"><market>7</market><currency>USD</currency><type>leverage</type><union>679338RAYRY</union></client>
+000322.532495 [63300] [clbk] <info> [O] [20u] <client id="49DWB/49DWB" remove="false"><market>14</market><currency>USD</currency><type>mct</type><union>679338RAYRY</union></client>
+000322.532495 [63300] [clbk] <info> [O] [26u] <client id="7684vr4" remove="false"><market>4</market><currency>RUB</currency><type>spot</type><union>679338RAYRY</union><forts_acc>7684vr4</forts_acc></client>
+000322.548119 [63300] [clbk] <info> [O] [27u] <union id="679338RAYRY" remove="false"/>
+000322.548119 [63300] [clbk] <info> [O] [166u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000335.280493 [63300] [44996] <cmd> [I] <command id="server_status"/>
+000335.280493 [63300] [44996] <res> [R] <result success="true"/>
+000335.280493 [63300] [clbk] <info> [O] [89u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000336.300398 [63300] [44996] <cmd> [I] <command id="get_old_news" count="10"/>
+000336.300398 [63300] [44996] <res> [R] <result success="true"/>
+000336.300398 [63300] [44996] <cmd> [I] <command id="get_servtime_difference"/>
+000336.312482 [63300] [44996] <res> [R] <result success="true" diff="0"/>
+000336.313480 [63300] [44996] <cmd> [I] <command id="get_connector_version"/>
+000336.313480 [63300] [44996] <res> [R] <result success="true"/>
+000336.314483 [63300] [44996] <cmd> [I] <command id="get_server_id"/>
+000336.314483 [63300] [44996] <res> [R] <result success="true"/>
+000336.315481 [63300] [44996] <cmd> [I] <command id="disconnect"/>
+000336.522118 [63300] [clbk] <info> [O] [94u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="false"/>
+000336.522118 [63300] [44996] <res> [R] <result success="true"/>
+000540.710999 [27776] [56964] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+000540.712002 [27776] [56964] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+000541.725535 [27776] [56964] <res> [R] <result success="true"/>
+000548.909187 [27776] [clbk] <info> [O] [27u] <client id="49DW8/49DW8" remove="false"><market>1</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000548.909187 [27776] [clbk] <info> [O] [26u] <client id="49DW9/49DW9" remove="false"><market>15</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000548.909187 [27776] [clbk] <info> [O] [22u] <client id="49DWA/49DWA" remove="false"><market>7</market><currency>USD</currency><type>leverage</type><union>679338RAYRY</union></client>
+000548.909187 [27776] [clbk] <info> [O] [22u] <client id="49DWB/49DWB" remove="false"><market>14</market><currency>USD</currency><type>mct</type><union>679338RAYRY</union></client>
+000548.909187 [27776] [clbk] <info> [O] [24u] <client id="7684vr4" remove="false"><market>4</market><currency>RUB</currency><type>spot</type><union>679338RAYRY</union><forts_acc>7684vr4</forts_acc></client>
+000548.909187 [27776] [clbk] <info> [O] [12u] <union id="679338RAYRY" remove="false"/>
+000548.909187 [27776] [clbk] <info> [O] [204u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000600.699976 [27776] [56964] <cmd> [I] <command id="server_status"/>
+000600.699976 [27776] [56964] <res> [R] <result success="true"/>
+000600.699976 [27776] [clbk] <info> [O] [79u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000601.718486 [27776] [56964] <cmd> [I] <command id="get_old_news" count="10"/>
+000601.718486 [27776] [56964] <res> [R] <result success="true"/>
+000601.718486 [27776] [56964] <cmd> [I] <command id="get_servtime_difference"/>
+000601.731168 [27776] [56964] <res> [R] <result success="true" diff="0"/>
+000601.731168 [27776] [56964] <cmd> [I] <command id="get_connector_version"/>
+000601.731168 [27776] [56964] <res> [R] <result success="true"/>
+000601.732164 [27776] [56964] <cmd> [I] <command id="get_server_id"/>
+000601.732164 [27776] [56964] <res> [R] <result success="true"/>
+000601.733164 [27776] [56964] <cmd> [I] <command id="disconnect"/>
+000601.936964 [27776] [clbk] <info> [O] [91u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="false"/>
+000601.936964 [27776] [56964] <res> [R] <result success="true"/>
+000630.615090 [57356] [42448] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+000630.615090 [57356] [42448] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+000631.631412 [57356] [42448] <res> [R] <result success="true"/>
+000638.892090 [57356] [clbk] <info> [O] [36u] <client id="49DW8/49DW8" remove="false"><market>1</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000638.892090 [57356] [clbk] <info> [O] [28u] <client id="49DW9/49DW9" remove="false"><market>15</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000638.892090 [57356] [clbk] <info> [O] [24u] <client id="49DWA/49DWA" remove="false"><market>7</market><currency>USD</currency><type>leverage</type><union>679338RAYRY</union></client>
+000638.892090 [57356] [clbk] <info> [O] [26u] <client id="49DWB/49DWB" remove="false"><market>14</market><currency>USD</currency><type>mct</type><union>679338RAYRY</union></client>
+000638.892090 [57356] [clbk] <info> [O] [50u] <client id="7684vr4" remove="false"><market>4</market><currency>RUB</currency><type>spot</type><union>679338RAYRY</union><forts_acc>7684vr4</forts_acc></client>
+000638.892090 [57356] [clbk] <info> [O] [15u] <union id="679338RAYRY" remove="false"/>
+000638.892090 [57356] [clbk] <info> [O] [223u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000649.551083 [57356] [42448] <cmd> [I] <command id="server_status"/>
+000649.551083 [57356] [42448] <res> [R] <result success="true"/>
+000649.551083 [57356] [clbk] <info> [O] [79u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000650.575943 [57356] [42448] <cmd> [I] <command id="get_old_news" count="10"/>
+000650.575943 [57356] [42448] <res> [R] <result success="true"/>
+000650.575943 [57356] [42448] <cmd> [I] <command id="get_servtime_difference"/>
+000650.593920 [57356] [42448] <res> [R] <result success="true" diff="0"/>
+000650.593920 [57356] [42448] <cmd> [I] <command id="get_connector_version"/>
+000650.593920 [57356] [42448] <res> [R] <result success="true"/>
+000650.594918 [57356] [42448] <cmd> [I] <command id="get_server_id"/>
+000650.594918 [57356] [42448] <res> [R] <result success="true"/>
+000650.601920 [57356] [42448] <cmd> [I] <command id="disconnect"/>
+000650.805884 [57356] [clbk] <info> [O] [87u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="false"/>
+000650.805884 [57356] [42448] <res> [R] <result success="true"/>
+000805.203446 [24044] [62676] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+000805.204446 [24044] [62676] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+000806.207287 [24044] [62676] <res> [R] <result success="true"/>
+000813.607543 [24044] [clbk] <info> [O] [45u] <client id="49DW8/49DW8" remove="false"><market>1</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000813.607543 [24044] [clbk] <info> [O] [29u] <client id="49DW9/49DW9" remove="false"><market>15</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000813.607543 [24044] [clbk] <info> [O] [22u] <client id="49DWA/49DWA" remove="false"><market>7</market><currency>USD</currency><type>leverage</type><union>679338RAYRY</union></client>
+000813.607543 [24044] [clbk] <info> [O] [22u] <client id="49DWB/49DWB" remove="false"><market>14</market><currency>USD</currency><type>mct</type><union>679338RAYRY</union></client>
+000813.607543 [24044] [clbk] <info> [O] [11067u] <client id="7684vr4" remove="false"><market>4</market><currency>RUB</currency><type>spot</type><union>679338RAYRY</union><forts_acc>7684vr4</forts_acc></client>
+000813.638828 [24044] [clbk] <info> [O] [19u] <union id="679338RAYRY" remove="false"/>
+000813.638828 [24044] [clbk] <info> [O] [302u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000826.480691 [24044] [62676] <cmd> [I] <command id="server_status"/>
+000826.480691 [24044] [62676] <res> [R] <result success="true"/>
+000826.480691 [24044] [clbk] <info> [O] [90u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000827.500252 [24044] [62676] <cmd> [I] <command id="get_old_news" count="10"/>
+000827.500252 [24044] [62676] <res> [R] <result success="true"/>
+000827.500252 [24044] [62676] <cmd> [I] <command id="get_servtime_difference"/>
+000827.513818 [24044] [62676] <res> [R] <result success="true" diff="0"/>
+000827.513818 [24044] [62676] <cmd> [I] <command id="get_connector_version"/>
+000827.513818 [24044] [62676] <res> [R] <result success="true"/>
+000827.514817 [24044] [62676] <cmd> [I] <command id="get_server_id"/>
+000827.515820 [24044] [62676] <res> [R] <result success="true"/>
+000827.516819 [24044] [62676] <cmd> [I] <command id="disconnect"/>
+000827.725758 [24044] [clbk] <info> [O] [92u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="false"/>
+000827.725758 [24044] [62676] <res> [R] <result success="true"/>
+000851.193038 [55984] [52708] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+000851.194037 [55984] [52708] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+000852.195610 [55984] [52708] <res> [R] <result success="true"/>
+000859.208731 [55984] [clbk] <info> [O] [34u] <client id="49DW8/49DW8" remove="false"><market>1</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000859.208731 [55984] [clbk] <info> [O] [27u] <client id="49DW9/49DW9" remove="false"><market>15</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+000859.208731 [55984] [clbk] <info> [O] [25u] <client id="49DWA/49DWA" remove="false"><market>7</market><currency>USD</currency><type>leverage</type><union>679338RAYRY</union></client>
+000859.208731 [55984] [clbk] <info> [O] [24u] <client id="49DWB/49DWB" remove="false"><market>14</market><currency>USD</currency><type>mct</type><union>679338RAYRY</union></client>
+000859.208731 [55984] [clbk] <info> [O] [24u] <client id="7684vr4" remove="false"><market>4</market><currency>RUB</currency><type>spot</type><union>679338RAYRY</union><forts_acc>7684vr4</forts_acc></client>
+000859.208731 [55984] [clbk] <info> [O] [21u] <union id="679338RAYRY" remove="false"/>
+000859.208731 [55984] [clbk] <info> [O] [344u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000910.619605 [55984] [52708] <cmd> [I] <command id="server_status"/>
+000910.619605 [55984] [52708] <res> [R] <result success="true"/>
+000910.619605 [55984] [clbk] <info> [O] [73u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+000911.638725 [55984] [52708] <cmd> [I] <command id="get_old_news" count="10"/>
+000911.638725 [55984] [52708] <res> [R] <result success="true"/>
+000911.638725 [55984] [52708] <cmd> [I] <command id="get_servtime_difference"/>
+000911.652747 [55984] [52708] <res> [R] <result success="true" diff="0"/>
+000911.653751 [55984] [52708] <cmd> [I] <command id="get_connector_version"/>
+000911.653751 [55984] [52708] <res> [R] <result success="true"/>
+000911.654752 [55984] [52708] <cmd> [I] <command id="get_server_id"/>
+000911.654752 [55984] [52708] <res> [R] <result success="true"/>
+000911.655749 [55984] [52708] <cmd> [I] <command id="disconnect"/>
+000911.856914 [55984] [clbk] <info> [O] [99u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="false"/>
+000911.856914 [55984] [52708] <res> [R] <result success="true"/>
+001127.813061 [59884] [59672] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+001127.814061 [59884] [59672] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+001128.823126 [59884] [59672] <res> [R] <result success="true"/>
+001136.161872 [59884] [clbk] <info> [O] [47u] <client id="49DW8/49DW8" remove="false"><market>1</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+001136.161872 [59884] [clbk] <info> [O] [31u] <client id="49DW9/49DW9" remove="false"><market>15</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+001136.161872 [59884] [clbk] <info> [O] [26u] <client id="49DWA/49DWA" remove="false"><market>7</market><currency>USD</currency><type>leverage</type><union>679338RAYRY</union></client>
+001136.161872 [59884] [clbk] <info> [O] [22u] <client id="49DWB/49DWB" remove="false"><market>14</market><currency>USD</currency><type>mct</type><union>679338RAYRY</union></client>
+001136.161872 [59884] [clbk] <info> [O] [26u] <client id="7684vr4" remove="false"><market>4</market><currency>RUB</currency><type>spot</type><union>679338RAYRY</union><forts_acc>7684vr4</forts_acc></client>
+001136.161872 [59884] [clbk] <info> [O] [19u] <union id="679338RAYRY" remove="false"/>
+001136.161872 [59884] [clbk] <info> [O] [246u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+001146.996276 [59884] [59672] <cmd> [I] <command id="server_status"/>
+001146.996276 [59884] [59672] <res> [R] <result success="true"/>
+001146.996276 [59884] [clbk] <info> [O] [63u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+001148.016981 [59884] [59672] <cmd> [I] <command id="get_old_news" count="10"/>
+001148.016981 [59884] [59672] <res> [R] <result success="true"/>
+001148.016981 [59884] [59672] <cmd> [I] <command id="get_servtime_difference"/>
+001148.033918 [59884] [59672] <res> [R] <result success="true" diff="-1"/>
+001148.034919 [59884] [59672] <cmd> [I] <command id="get_connector_version"/>
+001148.034919 [59884] [59672] <res> [R] <result success="true"/>
+001148.035917 [59884] [59672] <cmd> [I] <command id="get_server_id"/>
+001148.035917 [59884] [59672] <res> [R] <result success="true"/>
+001148.036918 [59884] [59672] <cmd> [I] <command id="disconnect"/>
+001148.241982 [59884] [clbk] <info> [O] [114u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="false"/>
+001148.241982 [59884] [59672] <res> [R] <result success="true"/>
+001416.733099 [54156] [52112] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+001416.734289 [54156] [52112] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+001417.740553 [54156] [52112] <res> [R] <result success="true"/>
+001427.556279 [54156] [clbk] <info> [O] [8813u] <server_status connected="error">Неверный идентификатор, пароль или Touch Memory</server_status>
+001436.094668 [56328] [61224] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+001436.095668 [56328] [61224] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+001437.104776 [56328] [61224] <res> [R] <result success="true"/>
+001444.004531 [56328] [clbk] <info> [O] [35u] <client id="49DW8/49DW8" remove="false"><market>1</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+001444.004531 [56328] [clbk] <info> [O] [51u] <client id="49DW9/49DW9" remove="false"><market>15</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+001444.004531 [56328] [clbk] <info> [O] [37u] <client id="49DWA/49DWA" remove="false"><market>7</market><currency>USD</currency><type>leverage</type><union>679338RAYRY</union></client>
+001444.004531 [56328] [clbk] <info> [O] [38u] <client id="49DWB/49DWB" remove="false"><market>14</market><currency>USD</currency><type>mct</type><union>679338RAYRY</union></client>
+001444.004531 [56328] [clbk] <info> [O] [31u] <client id="7684vr4" remove="false"><market>4</market><currency>RUB</currency><type>spot</type><union>679338RAYRY</union><forts_acc>7684vr4</forts_acc></client>
+001444.004531 [56328] [clbk] <info> [O] [13u] <union id="679338RAYRY" remove="false"/>
+001444.004531 [56328] [clbk] <info> [O] [208u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+001455.169538 [56328] [61224] <cmd> [I] <command id="server_status"/>
+001455.169538 [56328] [61224] <res> [R] <result success="true"/>
+001455.169538 [56328] [clbk] <info> [O] [47u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+001456.173468 [56328] [61224] <cmd> [I] <command id="get_old_news" count="10"/>
+001456.173468 [56328] [61224] <res> [R] <result success="true"/>
+001456.173468 [56328] [61224] <cmd> [I] <command id="get_servtime_difference"/>
+001456.186400 [56328] [61224] <res> [R] <result success="true" diff="-1"/>
+001456.186400 [56328] [61224] <cmd> [I] <command id="get_connector_version"/>
+001456.186400 [56328] [61224] <res> [R] <result success="true"/>
+001456.187402 [56328] [61224] <cmd> [I] <command id="get_server_id"/>
+001456.187402 [56328] [61224] <res> [R] <result success="true"/>
+001456.188402 [56328] [61224] <cmd> [I] <command id="disconnect"/>
+001456.393123 [56328] [clbk] <info> [O] [94u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="false"/>
+001456.393123 [56328] [61224] <res> [R] <result success="true"/>
+001539.268188 [45772] [62112] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+001539.268188 [45772] [62112] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+001540.269660 [45772] [62112] <res> [R] <result success="true"/>
+001547.263628 [45772] [clbk] <info> [O] [29u] <client id="49DW8/49DW8" remove="false"><market>1</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+001547.263628 [45772] [clbk] <info> [O] [24u] <client id="49DW9/49DW9" remove="false"><market>15</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+001547.263628 [45772] [clbk] <info> [O] [39u] <client id="49DWA/49DWA" remove="false"><market>7</market><currency>USD</currency><type>leverage</type><union>679338RAYRY</union></client>
+001547.263628 [45772] [clbk] <info> [O] [20u] <client id="49DWB/49DWB" remove="false"><market>14</market><currency>USD</currency><type>mct</type><union>679338RAYRY</union></client>
+001547.263628 [45772] [clbk] <info> [O] [21u] <client id="7684vr4" remove="false"><market>4</market><currency>RUB</currency><type>spot</type><union>679338RAYRY</union><forts_acc>7684vr4</forts_acc></client>
+001547.264627 [45772] [clbk] <info> [O] [25u] <union id="679338RAYRY" remove="false"/>
+001547.265572 [45772] [clbk] <info> [O] [230u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+001606.861813 [45772] [62112] <cmd> [I] <command id="server_status"/>
+001606.861813 [45772] [62112] <res> [R] <result success="true"/>
+001606.861813 [45772] [clbk] <info> [O] [68u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+001607.867825 [45772] [62112] <cmd> [I] <command id="get_old_news" count="10"/>
+001607.867825 [45772] [62112] <res> [R] <result success="true"/>
+001607.867825 [45772] [62112] <cmd> [I] <command id="get_servtime_difference"/>
+001607.882314 [45772] [62112] <res> [R] <result success="true" diff="0"/>
+001607.883317 [45772] [62112] <cmd> [I] <command id="get_connector_version"/>
+001607.883317 [45772] [62112] <res> [R] <result success="true"/>
+001607.884318 [45772] [62112] <cmd> [I] <command id="get_server_id"/>
+001607.884318 [45772] [62112] <res> [R] <result success="true"/>
+001607.886315 [45772] [62112] <cmd> [I] <command id="disconnect"/>
+001608.097104 [45772] [clbk] <info> [O] [93u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="false"/>
+001608.097104 [45772] [62112] <res> [R] <result success="true"/>
+002309.199273 [60260] [59928] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+002309.200270 [60260] [59928] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+002310.209034 [60260] [59928] <res> [R] <result success="true"/>
+002317.195089 [60260] [clbk] <info> [O] [37u] <client id="49DW8/49DW8" remove="false"><market>1</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+002317.195089 [60260] [clbk] <info> [O] [28u] <client id="49DW9/49DW9" remove="false"><market>15</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+002317.196088 [60260] [clbk] <info> [O] [22u] <client id="49DWA/49DWA" remove="false"><market>7</market><currency>USD</currency><type>leverage</type><union>679338RAYRY</union></client>
+002317.196088 [60260] [clbk] <info> [O] [19u] <client id="49DWB/49DWB" remove="false"><market>14</market><currency>USD</currency><type>mct</type><union>679338RAYRY</union></client>
+002317.202090 [60260] [clbk] <info> [O] [6426u] <client id="7684vr4" remove="false"><market>4</market><currency>RUB</currency><type>spot</type><union>679338RAYRY</union><forts_acc>7684vr4</forts_acc></client>
+002317.203867 [60260] [clbk] <info> [O] [16u] <union id="679338RAYRY" remove="false"/>
+002317.203867 [60260] [clbk] <info> [O] [277u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+002328.100733 [60260] [59928] <cmd> [I] <command id="server_status"/>
+002328.100733 [60260] [59928] <res> [R] <result success="true"/>
+002328.100733 [60260] [clbk] <info> [O] [81u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+002329.121568 [60260] [59928] <cmd> [I] <command id="get_old_news" count="10"/>
+002329.121568 [60260] [59928] <res> [R] <result success="true"/>
+002329.129231 [60260] [59928] <cmd> [I] <command id="get_servtime_difference"/>
+002329.134599 [60260] [59928] <res> [R] <result success="true" diff="-1"/>
+002329.134599 [60260] [59928] <cmd> [I] <command id="get_connector_version"/>
+002329.134599 [60260] [59928] <res> [R] <result success="true"/>
+002329.136606 [60260] [59928] <cmd> [I] <command id="get_server_id"/>
+002329.136606 [60260] [59928] <res> [R] <result success="true"/>
+002329.137605 [60260] [59928] <cmd> [I] <command id="disconnect"/>
+002329.352582 [60260] [clbk] <info> [O] [96u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="false"/>
+002329.352582 [60260] [59928] <res> [R] <result success="true"/>
+002612.363886 [58076] [23108] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+002612.363886 [58076] [23108] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+002613.373765 [58076] [23108] <res> [R] <result success="true"/>
+002620.697569 [58076] [clbk] <info> [O] [25u] <client id="49DW8/49DW8" remove="false"><market>1</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+002620.697569 [58076] [clbk] <info> [O] [50u] <client id="49DW9/49DW9" remove="false"><market>15</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+002620.697569 [58076] [clbk] <info> [O] [44u] <client id="49DWA/49DWA" remove="false"><market>7</market><currency>USD</currency><type>leverage</type><union>679338RAYRY</union></client>
+002620.697569 [58076] [clbk] <info> [O] [27u] <client id="49DWB/49DWB" remove="false"><market>14</market><currency>USD</currency><type>mct</type><union>679338RAYRY</union></client>
+002620.697569 [58076] [clbk] <info> [O] [22u] <client id="7684vr4" remove="false"><market>4</market><currency>RUB</currency><type>spot</type><union>679338RAYRY</union><forts_acc>7684vr4</forts_acc></client>
+002620.697569 [58076] [clbk] <info> [O] [13u] <union id="679338RAYRY" remove="false"/>
+002620.697569 [58076] [clbk] <info> [O] [224u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+002631.406975 [58076] [23108] <cmd> [I] <command id="server_status"/>
+002631.406975 [58076] [23108] <res> [R] <result success="true"/>
+002631.406975 [58076] [clbk] <info> [O] [92u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+002632.417481 [58076] [23108] <cmd> [I] <command id="get_old_news" count="10"/>
+002632.417481 [58076] [23108] <res> [R] <result success="true"/>
+002632.417481 [58076] [23108] <cmd> [I] <command id="get_servtime_difference"/>
+002632.431709 [58076] [23108] <res> [R] <result success="true" diff="0"/>
+002632.431709 [58076] [23108] <cmd> [I] <command id="get_connector_version"/>
+002632.431709 [58076] [23108] <res> [R] <result success="true"/>
+002632.432709 [58076] [23108] <cmd> [I] <command id="get_server_id"/>
+002632.432709 [58076] [23108] <res> [R] <result success="true"/>
+002632.434713 [58076] [23108] <cmd> [I] <command id="disconnect"/>
+002632.637169 [58076] [clbk] <info> [O] [92u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="false"/>
+002632.637169 [58076] [23108] <res> [R] <result success="true"/>
+002821.787768 [58460] [7900] <cmd> [V] System version 6.28. TXmlConnector version 2.21.16
+002821.788768 [58460] [7900] <cmd> [I] <command id="connect"><login>FZTC19414A</login><password>*</password><host>tr1.finam.ru</host><port>3900</port><rqdelay>100</rqdelay><session_timeout>25</session_timeout> <request_timeout>10</request_timeout></command>
+002822.794120 [58460] [7900] <res> [R] <result success="true"/>
+002830.092192 [58460] [clbk] <info> [O] [107u] <client id="49DW8/49DW8" remove="false"><market>1</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+002830.092192 [58460] [clbk] <info> [O] [40u] <client id="49DW9/49DW9" remove="false"><market>15</market><currency>RUB</currency><type>leverage</type><union>679338RAYRY</union></client>
+002830.093176 [58460] [clbk] <info> [O] [31u] <client id="49DWA/49DWA" remove="false"><market>7</market><currency>USD</currency><type>leverage</type><union>679338RAYRY</union></client>
+002830.093176 [58460] [clbk] <info> [O] [21u] <client id="49DWB/49DWB" remove="false"><market>14</market><currency>USD</currency><type>mct</type><union>679338RAYRY</union></client>
+002830.093176 [58460] [clbk] <info> [O] [20u] <client id="7684vr4" remove="false"><market>4</market><currency>RUB</currency><type>spot</type><union>679338RAYRY</union><forts_acc>7684vr4</forts_acc></client>
+002830.094174 [58460] [clbk] <info> [O] [17u] <union id="679338RAYRY" remove="false"/>
+002830.094174 [58460] [clbk] <info> [O] [321u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+002842.019898 [58460] [7900] <cmd> [I] <command id="server_status"/>
+002842.019898 [58460] [7900] <res> [R] <result success="true"/>
+002842.019898 [58460] [clbk] <info> [O] [51u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="true"/>
+002843.037965 [58460] [7900] <cmd> [I] <command id="get_old_news" count="10"/>
+002843.040631 [58460] [7900] <res> [R] <result success="true"/>
+002843.040631 [58460] [7900] <cmd> [I] <command id="get_servtime_difference"/>
+002843.057274 [58460] [7900] <res> [R] <result success="true" diff="-1"/>
+002843.058275 [58460] [7900] <cmd> [I] <command id="get_connector_version"/>
+002843.058275 [58460] [7900] <res> [R] <result success="true"/>
+002843.059276 [58460] [7900] <cmd> [I] <command id="get_server_id"/>
+002843.059276 [58460] [7900] <res> [R] <result success="true"/>
+002843.060277 [58460] [7900] <cmd> [I] <command id="disconnect"/>
+002843.270562 [58460] [clbk] <info> [O] [99u] <server_status sys_ver="629" build="18" server_tz="Russian Standard Time" id="5" connected="false"/>
+002843.270562 [58460] [7900] <res> [R] <result success="true"/>

@@ -1,0 +1,13 @@
+C:\Users\ilbou\projects\PyTransaq\Transaq\Transaq\obj\x86\Debug\netcoreapp3.1\Transaq.csprojAssemblyReference.cache
+C:\Users\ilbou\projects\PyTransaq\Transaq\Transaq\obj\x86\Debug\netcoreapp3.1\Transaq.AssemblyInfoInputs.cache
+C:\Users\ilbou\projects\PyTransaq\Transaq\Transaq\obj\x86\Debug\netcoreapp3.1\Transaq.AssemblyInfo.cs
+C:\Users\ilbou\projects\PyTransaq\Transaq\Transaq\obj\x86\Debug\netcoreapp3.1\Transaq.csproj.CoreCompileInputs.cache
+C:\Users\ilbou\projects\PyTransaq\Transaq\Transaq\bin\x86\Debug\netcoreapp3.1\Transaq.exe
+C:\Users\ilbou\projects\PyTransaq\Transaq\Transaq\bin\x86\Debug\netcoreapp3.1\Transaq.deps.json
+C:\Users\ilbou\projects\PyTransaq\Transaq\Transaq\bin\x86\Debug\netcoreapp3.1\Transaq.runtimeconfig.json
+C:\Users\ilbou\projects\PyTransaq\Transaq\Transaq\bin\x86\Debug\netcoreapp3.1\Transaq.runtimeconfig.dev.json
+C:\Users\ilbou\projects\PyTransaq\Transaq\Transaq\bin\x86\Debug\netcoreapp3.1\Transaq.dll
+C:\Users\ilbou\projects\PyTransaq\Transaq\Transaq\bin\x86\Debug\netcoreapp3.1\Transaq.pdb
+C:\Users\ilbou\projects\PyTransaq\Transaq\Transaq\obj\x86\Debug\netcoreapp3.1\Transaq.dll
+C:\Users\ilbou\projects\PyTransaq\Transaq\Transaq\obj\x86\Debug\netcoreapp3.1\Transaq.pdb
+C:\Users\ilbou\projects\PyTransaq\Transaq\Transaq\obj\x86\Debug\netcoreapp3.1\Transaq.genruntimeconfig.cache

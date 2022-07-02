@@ -1,0 +1,280 @@
+
+
+Start logging 03/07/2022 00:00:39 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:00:39.911 {F644} Connecting to tr1.finam.ru:3900 buf=65512...
+00:00:40.069 {F644} Connected.
+00:00:40.257 {F644} Session timeout 25000 ms.
+00:00:40.257 {F644} Request timeout 10000 ms.
+00:00:40.257 {F644} SYS# 629/628 PRO# 68/68=0 BLD# 18/2.21.16=0 SID# 5 UID# 559015
+00:00:40.272 {F644} Server time:3/07/2022 0:00:40, RQL:16, Diff*10:0
+00:00:40.480 {F644} Server time:3/07/2022 0:00:40, RQL:17, Diff*10:0
+00:00:49.771 {F644} Snapshot accepted
+00:00:49.877 {F644} Snapshot done. 
+00:00:49.878 {F644} Undefined EDP Rates:1/9: JPY=15:JPYRUB_TOM.
+00:01:03.986 {F644} 
+RQ: 50
+SG: 130
+WR: 
+RD: <:29;L:1656806463;B16:x4cff0000c4ff00000000000000000000;
+LFT: 0
+ 
+00:01:04.188 {F644} Trade Stream Closed. S:2008/222, R:5626129/1007, E:0, Rl:5111881
+
+
+Start logging 03/07/2022 00:01:50 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:01:50.885 {B4BC} Connecting to tr1.finam.ru:3900 buf=65512...
+00:01:50.891 {B4BC} Connected.
+00:01:51.089 {B4BC} Session timeout 25000 ms.
+00:01:51.089 {B4BC} Request timeout 10000 ms.
+00:01:51.089 {B4BC} SYS# 629/628 PRO# 68/68=0 BLD# 18/2.21.16=0 SID# 5 UID# 559015
+00:01:51.089 {B4BC} Server time:3/07/2022 0:01:50, RQL:0, Diff*10:-10
+00:01:51.105 {B4BC} Server time:3/07/2022 0:01:50, RQL:0, Diff*10:-10
+00:01:58.240 {B4BC} Snapshot accepted
+00:01:58.349 {B4BC} Snapshot done. 
+00:01:58.349 {B4BC} Undefined EDP Rates:1/9: JPY=15:JPYRUB_TOM.
+00:02:12.077 {B4BC} 
+RQ: 50
+SG: 130
+WR: 
+RD: <:29;L:1656806531;B16:x4cff0000c4ff00000000000000000000;
+LFT: 0
+ 
+00:02:12.285 {B4BC} Trade Stream Closed. S:1996/222, R:5626117/900, E:0, Rl:5439574
+
+
+Start logging 03/07/2022 00:03:15 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:03:15.508 {B34C} Connecting to tr1.finam.ru:3900 buf=65512...
+00:03:15.533 {B34C} Connected.
+00:03:15.715 {B34C} Session timeout 25000 ms.
+00:03:15.715 {B34C} Request timeout 10000 ms.
+00:03:15.715 {B34C} SYS# 629/628 PRO# 68/68=0 BLD# 18/2.21.16=0 SID# 5 UID# 559015
+00:03:15.731 {B34C} Server time:3/07/2022 0:03:15, RQL:16, Diff*10:0
+00:03:15.746 {B34C} Server time:3/07/2022 0:03:15, RQL:0, Diff*10:0
+00:03:22.438 {B34C} Snapshot accepted
+00:03:22.532 {B34C} Snapshot done. 
+00:03:22.532 {B34C} Undefined EDP Rates:1/9: JPY=15:JPYRUB_TOM.
+00:03:36.316 {B34C} 
+RQ: 50
+SG: 130
+WR: 
+RD: <:29;L:1656806616;B16:x4cff0000c4ff00000000000000000000;
+LFT: 0
+ 
+00:03:36.522 {B34C} Trade Stream Closed. S:2005/222, R:5626126/972, E:0, Rl:5570652
+
+
+Start logging 03/07/2022 00:05:41 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:05:41.725 {A8D0} Connecting to tr1.finam.ru:3900 buf=65512...
+00:05:41.751 {A8D0} Connected.
+00:05:41.936 {A8D0} Session timeout 25000 ms.
+00:05:41.936 {A8D0} Request timeout 10000 ms.
+00:05:41.936 {A8D0} SYS# 629/628 PRO# 68/68=0 BLD# 18/2.21.16=0 SID# 5 UID# 559015
+00:05:41.936 {A8D0} Server time:3/07/2022 0:05:41, RQL:0, Diff*10:0
+00:05:41.969 {A8D0} Server time:3/07/2022 0:05:41, RQL:17, Diff*10:0
+00:05:48.812 {A8D0} Snapshot accepted
+00:05:48.909 {A8D0} Snapshot done. 
+00:05:48.909 {A8D0} Undefined EDP Rates:1/9: JPY=15:JPYRUB_TOM.
+00:06:01.734 {A8D0} 
+RQ: 50
+SG: 130
+WR: 
+RD: <:29;L:1656806761;B16:x4cff0000c4ff00000000000000000000;
+LFT: 0
+ 
+00:06:01.936 {A8D0} Trade Stream Closed. S:1936/213, R:5626057/1078, E:0, Rl:5374032
+
+
+Start logging 03/07/2022 00:06:31 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:06:31.631 {D3B4} Connecting to tr1.finam.ru:3900 buf=65512...
+00:06:31.646 {D3B4} Connected.
+00:06:31.851 {D3B4} Session timeout 25000 ms.
+00:06:31.851 {D3B4} Request timeout 10000 ms.
+00:06:31.851 {D3B4} SYS# 629/628 PRO# 68/68=0 BLD# 18/2.21.16=0 SID# 5 UID# 559015
+00:06:31.851 {D3B4} Server time:3/07/2022 0:06:31, RQL:0, Diff*10:0
+00:06:31.882 {D3B4} Server time:3/07/2022 0:06:31, RQL:15, Diff*10:0
+00:06:38.813 {D3B4} Snapshot accepted
+00:06:38.876 {D3B4} Snapshot done. 
+00:06:38.876 {D3B4} Undefined EDP Rates:1/9: JPY=15:JPYRUB_TOM.
+00:06:50.601 {D3B4} 
+RQ: 50
+SG: 130
+WR: 
+RD: <:29;L:1656806810;B16:x4cff0000c4ff00000000000000000000;
+LFT: 0
+ 
+00:06:50.805 {D3B4} Trade Stream Closed. S:1856/203, R:5625977/1068, E:0, Rl:7209071
+
+
+Start logging 03/07/2022 00:08:06 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:08:06.207 {F710} Connecting to tr1.finam.ru:3900 buf=65512...
+00:08:06.223 {F710} Connected.
+00:08:06.418 {F710} Session timeout 25000 ms.
+00:08:06.418 {F710} Request timeout 10000 ms.
+00:08:06.418 {F710} SYS# 629/628 PRO# 68/68=0 BLD# 18/2.21.16=0 SID# 5 UID# 559015
+00:08:06.434 {F710} Server time:3/07/2022 0:08:06, RQL:16, Diff*10:0
+00:08:06.449 {F710} Server time:3/07/2022 0:08:06, RQL:0, Diff*10:0
+00:08:13.496 {F710} Snapshot accepted
+00:08:13.591 {F710} Snapshot done. 
+00:08:13.591 {F710} Undefined EDP Rates:1/9: JPY=15:JPYRUB_TOM.
+00:08:27.516 {F710} 
+RQ: 50
+SG: 130
+WR: 
+RD: <:29;L:1656806907;B16:x4cff0000c4ff00000000000000000000;
+LFT: 0
+ 
+00:08:27.725 {F710} Trade Stream Closed. S:2012/223, R:5626133/860, E:0, Rl:7274610
+
+
+Start logging 03/07/2022 00:08:52 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:08:52.195 {6D48} Connecting to tr1.finam.ru:3900 buf=65512...
+00:08:52.202 {6D48} Connected.
+00:08:52.404 {6D48} Session timeout 25000 ms.
+00:08:52.404 {6D48} Request timeout 10000 ms.
+00:08:52.404 {6D48} SYS# 629/628 PRO# 68/68=0 BLD# 18/2.21.16=0 SID# 5 UID# 559015
+00:08:52.420 {6D48} Server time:3/07/2022 0:08:52, RQL:16, Diff*10:0
+00:08:52.438 {6D48} Server time:3/07/2022 0:08:52, RQL:0, Diff*10:0
+00:08:59.130 {6D48} Snapshot accepted
+00:08:59.208 {6D48} Snapshot done. 
+00:08:59.208 {6D48} Undefined EDP Rates:1/9: JPY=15:JPYRUB_TOM.
+00:09:11.655 {6D48} 
+RQ: 50
+SG: 130
+WR: 
+RD: <:29;L:1656806951;B16:x4cff0000c4ff00000000000000000000;
+LFT: 0
+ 
+00:09:11.856 {6D48} Trade Stream Closed. S:1910/210, R:5626031/844, E:0, Rl:0
+
+
+Start logging 03/07/2022 00:11:28 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:11:28.823 {BBE8} Connecting to tr1.finam.ru:3900 buf=65512...
+00:11:28.874 {BBE8} Connected.
+00:11:29.066 {BBE8} Session timeout 25000 ms.
+00:11:29.066 {BBE8} Request timeout 10000 ms.
+00:11:29.066 {BBE8} SYS# 629/628 PRO# 68/68=0 BLD# 18/2.21.16=0 SID# 5 UID# 559015
+00:11:29.082 {BBE8} Server time:3/07/2022 0:11:28, RQL:16, Diff*10:-10
+00:11:29.098 {BBE8} Server time:3/07/2022 0:11:28, RQL:0, Diff*10:-10
+00:11:36.082 {BBE8} Snapshot accepted
+00:11:36.161 {BBE8} Snapshot done. 
+00:11:36.161 {BBE8} Undefined EDP Rates:1/9: JPY=15:JPYRUB_TOM.
+00:11:48.036 {BBE8} 
+RQ: 50
+SG: 130
+WR: 
+RD: <:29;L:1656807107;B16:x4cff0000c4ff00000000000000000000;
+LFT: 0
+ 
+00:11:48.241 {BBE8} Trade Stream Closed. S:1856/204, R:5625977/966, E:0, Rl:0
+
+
+Start logging 03/07/2022 00:14:17 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:14:17.740 {8C58} Connecting to tr1.finam.ru:3900 buf=65512...
+00:14:17.764 {8C58} Connected.
+00:14:27.540 {8C58} RQ_PWD Connection closed by server - BYE
+00:14:27.540 {8C58} Trade Stream Closed. Reason: 'Connect/Login failed'. S:222/2, R:147/2, E:0, Rl:0
+
+
+Start logging 03/07/2022 00:14:37 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:14:37.104 {DF94} Connecting to tr1.finam.ru:3900 buf=65512...
+00:14:37.125 {DF94} Connected.
+00:14:37.327 {DF94} Session timeout 25000 ms.
+00:14:37.327 {DF94} Request timeout 10000 ms.
+00:14:37.327 {DF94} SYS# 629/628 PRO# 68/68=0 BLD# 18/2.21.16=0 SID# 5 UID# 559015
+00:14:37.327 {DF94} Server time:3/07/2022 0:14:37, RQL:0, Diff*10:0
+00:14:37.358 {DF94} Server time:3/07/2022 0:14:37, RQL:0, Diff*10:0
+00:14:43.926 {DF94} Snapshot accepted
+00:14:44.004 {DF94} Snapshot done. 
+00:14:44.004 {DF94} Undefined EDP Rates:1/9: JPY=15:JPYRUB_TOM.
+00:14:56.189 {DF94} 
+RQ: 50
+SG: 130
+WR: 
+RD: <:29;L:1656807295;B16:x4cff0000c4ff00000000000000000000;
+LFT: 0
+ 
+00:14:56.393 {DF94} Trade Stream Closed. S:1891/207, R:5626012/877, E:0, Rl:0
+
+
+Start logging 03/07/2022 00:15:40 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:15:40.269 {C998} Connecting to tr1.finam.ru:3900 buf=65512...
+00:15:40.287 {C998} Connected.
+00:15:40.461 {C998} Session timeout 25000 ms.
+00:15:40.461 {C998} Request timeout 10000 ms.
+00:15:40.461 {C998} SYS# 629/628 PRO# 68/68=0 BLD# 18/2.21.16=0 SID# 5 UID# 559015
+00:15:40.477 {C998} Server time:3/07/2022 0:15:40, RQL:15, Diff*10:0
+00:15:40.492 {C998} Server time:3/07/2022 0:15:40, RQL:0, Diff*10:0
+00:15:47.169 {C998} Snapshot accepted
+00:15:47.261 {C998} Snapshot done. 
+00:15:47.261 {C998} Undefined EDP Rates:1/9: JPY=15:JPYRUB_TOM.
+00:16:07.886 {C998} 
+RQ: 50
+SG: 130
+WR: 
+RD: <:29;L:1656807367;B16:x4cff0000c4ff00000000000000000000;
+LFT: 0
+ 
+00:16:08.097 {C998} Trade Stream Closed. S:2500/284, R:5626621/1157, E:0, Rl:0
+
+
+Start logging 03/07/2022 00:23:10 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:23:10.209 {ADD0} Connecting to tr1.finam.ru:3900 buf=65512...
+00:23:10.233 {ADD0} Connected.
+00:23:10.414 {ADD0} Session timeout 25000 ms.
+00:23:10.414 {ADD0} Request timeout 10000 ms.
+00:23:10.414 {ADD0} SYS# 629/628 PRO# 68/68=0 BLD# 18/2.21.16=0 SID# 5 UID# 559015
+00:23:10.429 {ADD0} Server time:3/07/2022 0:23:10, RQL:15, Diff*10:0
+00:23:10.445 {ADD0} Server time:3/07/2022 0:23:10, RQL:0, Diff*10:0
+00:23:17.108 {ADD0} Snapshot accepted
+00:23:17.193 {ADD0} Snapshot done. 
+00:23:17.193 {ADD0} Undefined EDP Rates:1/9: JPY=15:JPYRUB_TOM.
+00:23:29.137 {ADD0} 
+RQ: 50
+SG: 130
+WR: 
+RD: <:29;L:1656807808;B16:x4cff0000c4ff00000000000000000000;
+LFT: 0
+ 
+00:23:29.352 {ADD0} Trade Stream Closed. S:1863/204, R:5625984/1067, E:0, Rl:6357069
+
+
+Start logging 03/07/2022 00:26:13 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:26:13.373 {7FE8} Connecting to tr1.finam.ru:3900 buf=65512...
+00:26:13.395 {7FE8} Connected.
+00:26:13.581 {7FE8} Session timeout 25000 ms.
+00:26:13.581 {7FE8} Request timeout 10000 ms.
+00:26:13.581 {7FE8} SYS# 629/628 PRO# 68/68=0 BLD# 18/2.21.16=0 SID# 5 UID# 559015
+00:26:13.581 {7FE8} Server time:3/07/2022 0:26:13, RQL:0, Diff*10:0
+00:26:13.612 {7FE8} Server time:3/07/2022 0:26:13, RQL:15, Diff*10:0
+00:26:20.603 {7FE8} Snapshot accepted
+00:26:20.697 {7FE8} Snapshot done. 
+00:26:20.697 {7FE8} Undefined EDP Rates:1/9: JPY=15:JPYRUB_TOM.
+00:26:32.434 {7FE8} 
+RQ: 50
+SG: 130
+WR: 
+RD: <:29;L:1656807992;B16:x4cff0000c4ff00000000000000000000;
+LFT: 0
+ 
+00:26:32.637 {7FE8} Trade Stream Closed. S:1848/202, R:5625969/928, E:0, Rl:676545868
+
+
+Start logging 03/07/2022 00:28:22 Transaq TXmlConnector, ver.6.28-T68-37-2.21.16
+00:28:22.794 {1440} Connecting to tr1.finam.ru:3900 buf=65512...
+00:28:22.819 {1440} Connected.
+00:28:23.001 {1440} Session timeout 25000 ms.
+00:28:23.001 {1440} Request timeout 10000 ms.
+00:28:23.001 {1440} SYS# 629/628 PRO# 68/68=0 BLD# 18/2.21.16=0 SID# 5 UID# 559015
+00:28:23.001 {1440} Server time:3/07/2022 0:28:22, RQL:0, Diff*10:-10
+00:28:23.033 {1440} Server time:3/07/2022 0:28:22, RQL:15, Diff*10:-10
+00:28:30.004 {1440} Snapshot accepted
+00:28:30.088 {1440} Snapshot done. 
+00:28:30.090 {1440} Undefined EDP Rates:1/9: JPY=15:JPYRUB_TOM.
+00:28:43.060 {1440} 
+RQ: 50
+SG: 130
+WR: 
+RD: <:29;L:1656808122;B16:x4cff0000c4ff00000000000000000000;
+LFT: 0
+ 
+00:28:43.270 {1440} Trade Stream Closed. S:1986/219, R:5626107/887, E:0, Rl:0
